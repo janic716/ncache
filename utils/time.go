@@ -28,7 +28,7 @@ func NowTime() time.Time {
 }
 
 func UnixTimeNano() int64 {
-	return time.Now()   .UnixNano()
+	return time.Now().UnixNano()
 }
 
 func UnixTimeMicro() int64 {
