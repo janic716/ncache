@@ -1,0 +1,20 @@
+{
+  "dbconf": "config/db.json",
+  "server": {
+    "name": "default",
+    "address": "127.0.0.1",
+    "server_port": 10000,
+    "monitor_port": 10001,
+    "max_client": 5000,
+    "max_client_idle": 300,
+    "time_task_interval": 60
+  },
+  "log": {
+    "module": "ncache",
+    "level": "INFO,ERROR",
+    "log_dir": "./",
+    "suffix_format": "unknow",
+    "max_log_count": 50000
+  },
+  "comment":"可以在这里加上对配置文件的说明"
+}

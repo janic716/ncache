@@ -1,0 +1,92 @@
+{
+  "cache": {
+    "mode": 1,
+    "master": {
+      "addr": "",
+      "user": "",
+      "pass": "",
+      "init_conn_num": 0,
+      "max_conn_num": 0,
+      "conn_timeout": 0,
+      "read_timeout": 0,
+      "write_timeout": 0
+    },
+    "slaves": [
+      {
+        "addr": "",
+        "user": "",
+        "pass": "",
+        "init_conn_num": 0,
+        "max_conn_num": 0,
+        "conn_timeout": 0,
+        "read_timeout": 0,
+        "write_timeout": 0
+      },
+      {
+        "addr": "",
+        "user": "",
+        "pass": "",
+        "init_conn_num": 0,
+        "max_conn_num": 0,
+        "conn_timeout": 0,
+        "read_timeout": 0,
+        "write_timeout": 0
+      },
+      {
+        "addr": "",
+        "user": "",
+        "pass": "",
+        "init_conn_num": 0,
+        "max_conn_num": 0,
+        "conn_timeout": 0,
+        "read_timeout": 0,
+        "write_timeout": 0
+      }
+    ]
+  },
+  "like": {
+    "mode": 1,
+    "master": {
+      "addr": "",
+      "user": "",
+      "pass": "",
+      "init_conn_num": 0,
+      "max_conn_num": 0,
+      "conn_timeout": 0,
+      "read_timeout": 0,
+      "write_timeout": 0
+    },
+    "slaves": [
+      {
+        "addr": "",
+        "user": "",
+        "pass": "",
+        "init_conn_num": 0,
+        "max_conn_num": 0,
+        "conn_timeout": 0,
+        "read_timeout": 0,
+        "write_timeout": 0
+      },
+      {
+        "addr": "",
+        "user": "",
+        "pass": "",
+        "init_conn_num": 0,
+        "max_conn_num": 0,
+        "conn_timeout": 0,
+        "read_timeout": 0,
+        "write_timeout": 0
+      },
+      {
+        "addr": "",
+        "user": "",
+        "pass": "",
+        "init_conn_num": 0,
+        "max_conn_num": 0,
+        "conn_timeout": 0,
+        "read_timeout": 0,
+        "write_timeout": 0
+      }
+    ]
+  }
+}

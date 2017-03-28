@@ -1,0 +1,30 @@
+{
+  "slice":{
+    "name":"slice",
+    "mode":1,
+    "type":"slice",
+    "hash":"crc32a",
+    "pre_connect":false,
+    "distribution":"ketama",
+    "auot_eject":false,
+    "masters":[
+      "10.8.10.50:23400",
+      "10.8.10.50:23410",
+      "10.8.10.50:23420",
+      "10.8.10.50:23430"
+    ],
+    "slaves":[],
+    "weights":[1,1,1,1],
+    "node_name":[
+      "bkv01",
+      "bkv02",
+      "bkv03",
+      "bkv04"
+    ],
+    "init_conn_num":40,
+    "max_conn_num":100,
+    "conn_timeout":1000,
+    "read_timeout":1000,
+    "write_timeout":1000
+  }
+}
